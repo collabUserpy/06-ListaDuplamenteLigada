@@ -147,7 +147,7 @@ void inserirElemento()
 }
 
 
-// funções a serem implementadas no exericio
+// funções a serem implementadas no exericioo
 void exibirReverso()
 {
 	NO* aux = ultimo;
